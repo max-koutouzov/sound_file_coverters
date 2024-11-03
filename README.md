@@ -1,2 +1,2 @@
 # sound_file_coverters
-sound_file_converters
+Converting sounds file formats and bit rates.
